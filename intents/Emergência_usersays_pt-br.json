@@ -1,0 +1,133 @@
+[
+  {
+    "id": "566561f1-eaf1-4800-8286-ec27ee9418c8",
+    "data": [
+      {
+        "text": "dores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "499bd54c-a6f0-410a-95e0-15f920634c21",
+    "data": [
+      {
+        "text": "sinto dor no peito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4aaa628-2f14-47af-9bb8-2b50a6d733dd",
+    "data": [
+      {
+        "text": "dor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3f337d56-8c2b-4539-b164-2b04719d9089",
+    "data": [
+      {
+        "text": "estou doente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "919de5eb-07f2-4299-bde7-5df2ee9afe5e",
+    "data": [
+      {
+        "text": "não me sinto ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e64e7b0-acff-4dc2-a6b4-e4c540a543c9",
+    "data": [
+      {
+        "text": "estou passando mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8efd7ed-5e9a-424c-820d-9ea78749c84a",
+    "data": [
+      {
+        "text": "ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3294751a-1c79-419e-8950-51c6ec81542a",
+    "data": [
+      {
+        "text": "o que ",
+        "userDefined": false
+      },
+      {
+        "text": "devo",
+        "userDefined": false
+      },
+      {
+        "text": " fazer em emergências",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b71c8732-c3e6-4f7b-96ba-aa0ee111e19f",
+    "data": [
+      {
+        "text": "emergência",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

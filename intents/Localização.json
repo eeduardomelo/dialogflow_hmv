@@ -1,0 +1,50 @@
+{
+  "id": "6b003d69-e856-4a8e-a722-814aa844003c",
+  "name": "Localização",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ebb87234-3ba1-4a23-bc82-1993baed3621",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nós temos 3 sedes:   Sede Moinhos de Vento\n(51) 3314-3434(Agendamento de consultas e exames)\n(51) 3314-3300(Para informações)\nEntrada 1 - Rua Ramiro Barcelos, 910 - Moinhos de Vento, Porto Alegre - RS, 90035-000\n\nUnidade Iguatemi\n(51) 3314-3434(Agendamento de consultas e exames) (51) 3314-3300(Para informações)\nAv. Antônio Carlos Berta, Shopping Iguatemi Porto Alegre, 3º andar\n\nUnidade Hub Canoas\n(51) 3314-3434(Agendamento de consultas e exames) (51) 3314-3300(Para informações)\nAv. Getúlio Vargas 4831, Canoas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

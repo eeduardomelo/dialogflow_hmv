@@ -1,0 +1,44 @@
+{
+  "id": "696fe658-e55b-4d46-81de-59884753ee83",
+  "parentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "rootParentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "name": "Emergência - no",
+  "auto": true,
+  "contexts": [
+    "Emergncia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emergncia.Emergncia-no",
+      "affectedContexts": [
+        {
+          "name": "Emergncia-no-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Está com dor ou desconforto na região peitoral (torácica) (Dor ou Desconforto que espalha do peitoral para as costas, rosto, braço esquerdo e/ou o braço direito)?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "de46c09a-4ffb-4ab1-be14-a671fadf5606",
+  "parentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "rootParentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "name": "Emergência - yes",
+  "auto": true,
+  "contexts": [
+    "Emergncia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emergncia.Emergncia-yes",
+      "affectedContexts": [
+        {
+          "name": "Emergncia-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Teve palpitações, fraquezas, tonturas, desmaios, confusão mental, falta de ar, mal-estar e sensação de peso no peito?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

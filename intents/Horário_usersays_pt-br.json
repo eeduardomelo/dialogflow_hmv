@@ -1,0 +1,80 @@
+[
+  {
+    "id": "93c1ae00-91ad-45f8-b398-0eb3110c38e4",
+    "data": [
+      {
+        "text": "horário de funcionamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "524d963b-8e8d-4fc0-87a0-22c4cacc8b8c",
+    "data": [
+      {
+        "text": "funcionamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e060b635-dcea-45fc-be01-9185c119799e",
+    "data": [
+      {
+        "text": "que horas abre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c5e0bb4-35af-469c-b4ec-8a1a0ffba380",
+    "data": [
+      {
+        "text": "horário de atendimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b5c2712b-9b1e-4e82-8f84-4a5e5613ed74",
+    "data": [
+      {
+        "text": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe002a36-1e04-44fb-b4a6-3fd72b71242e",
+    "data": [
+      {
+        "text": "horário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "a8e3c7df-fa68-49f9-b3b1-57a873bb0a94",
+  "name": "Horário",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Hospital Moinhos de Vento coloca à disposição mais uma opção telefônica para a realização de agendamento de consultas, exames, informações sobre internação e outros serviços. A partir de agora, também é possível entrar em contato com a instituição pelo número (51) 3537-8000. O telefone geral da central de atendimento (51) 3314 3434 permanece em operação."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

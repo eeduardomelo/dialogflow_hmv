@@ -1,0 +1,66 @@
+{
+  "id": "ae6c62e4-a8bf-4615-acbf-c104802d2002",
+  "name": "Dúvidas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "65a7bcb2-7a7a-44cd-a1b4-6268a5772879",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6880d3e3-c717-4fce-8d23-f3c8e52166e3",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Quais dúvidas? Referente á Descreva algumas das opções:  Horário de funcionamento, Hospitais HMV - localização, Tipos de atendimento, emergências, agendamento de consultas e exames",
+            "Não compreendi, poderia ser mais específico? Podemos ajuda-lo em Horário de funcionamento, Hospitais HMV - localização, Tipos de atendimento, emergências, agendamento de consultas e exames",
+            "Descreva algumas das opções:  Horário de funcionamento, Hospitais HMV - localização, Tipos de atendimento, emergências, agendamento de consultas e exames"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

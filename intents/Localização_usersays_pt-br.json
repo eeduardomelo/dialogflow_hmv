@@ -1,0 +1,121 @@
+[
+  {
+    "id": "6cc4d610-3343-473a-8da7-722b3e9740cf",
+    "data": [
+      {
+        "text": "como chegar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ace8d06-5b48-44e3-ae95-29eba9858e2d",
+    "data": [
+      {
+        "text": "unidades",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1993c32d-2e29-4ec8-a130-0b8f0eb20538",
+    "data": [
+      {
+        "text": "qual endereço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df0e95f1-2bc9-4dd7-96d0-9dac71541e08",
+    "data": [
+      {
+        "text": "aonde fica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b447d95-b26e-4b91-be21-1bb60e687593",
+    "data": [
+      {
+        "text": "situado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2db8907b-890c-44a3-bf15-a8976261c6cb",
+    "data": [
+      {
+        "text": "lugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b84ae11b-8213-4ff6-91d2-8102072ee965",
+    "data": [
+      {
+        "text": "área",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "862b7505-5b19-428c-9264-5fba0ffecc4c",
+    "data": [
+      {
+        "text": "local",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "49ad9427-8d20-4a90-ae51-e1c7b1a65f2c",
+    "data": [
+      {
+        "text": "localização",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

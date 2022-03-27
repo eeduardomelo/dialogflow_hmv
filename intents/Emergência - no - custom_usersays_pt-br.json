@@ -1,0 +1,222 @@
+[
+  {
+    "id": "b8211729-f306-43fd-8483-a587fbcfb85f",
+    "data": [
+      {
+        "text": "peito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ac2280d-1c2b-43fc-81f9-ece6d21f602d",
+    "data": [
+      {
+        "text": "peitoral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "83a774c4-b096-412c-acb6-68ee0a9b94c2",
+    "data": [
+      {
+        "text": "desconforto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9eaaae80-c775-4cca-bde0-c28c1277e313",
+    "data": [
+      {
+        "text": "muito desconforto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4d89834d-90bc-4b20-96c1-ff9104add9e1",
+    "data": [
+      {
+        "text": "tive dores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b9106430-110a-41d1-bdba-054e93260a9c",
+    "data": [
+      {
+        "text": "dois",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " braços",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "16bd494e-0003-4f40-8048-cd4791489047",
+    "data": [
+      {
+        "text": "braço direito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4eb3ce8a-ebe2-4be2-a9ca-e1f0cc84f665",
+    "data": [
+      {
+        "text": "braço esquerdo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df7bbeb8-56eb-4603-8055-0b9752106618",
+    "data": [
+      {
+        "text": "braço",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97844fe4-ae39-4c02-9804-30b9aec47ea2",
+    "data": [
+      {
+        "text": "cara",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "53cc7794-92d8-47f0-9fe7-607e0ae341fe",
+    "data": [
+      {
+        "text": "rosto",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "31ca27e7-fa55-465d-86cb-9eae6ca6b0e4",
+    "data": [
+      {
+        "text": "tive desconfortoscostas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d146bad8-5b54-4e78-af30-676b33573e16",
+    "data": [
+      {
+        "text": "tive desconfortos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15e380c2-f659-4602-9b77-3e5b3bcbb2ef",
+    "data": [
+      {
+        "text": "de vez em quando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "68e1b8f2-4432-4968-86bc-967f006d85c2",
+    "data": [
+      {
+        "text": "tive algumas vezes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f07ec80a-1291-49af-809f-7b1609b266c7",
+    "data": [
+      {
+        "text": "sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "id": "c727985e-09eb-409b-bf91-14e6bdb9e9ac",
+  "parentId": "54de933b-562b-4cf5-84f5-df50ea77fab3",
+  "rootParentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "name": "Emergência - no - custom - select.number",
+  "auto": true,
+  "contexts": [
+    "Emergncia-no-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emergncia.Emergncia-no.Emergncia-no-custom.Emergncia-no-custom-selectnumber",
+      "affectedContexts": [
+        {
+          "name": "Emergncia-no-custom-selectnumber-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6cf5095d-1715-4e64-ae02-04a07d22225e",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2ad10037-c9c9-4713-991d-d6db388c9c62",
+          "name": "number-integer",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "value": "$number-integer",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Teve algum desses sinais abaixo?\nSuor frio\nPalidez \nfalta de ar\nsensação de desmaio. \nTosse seca\nNáusea, indigestão ou dor abdominal"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

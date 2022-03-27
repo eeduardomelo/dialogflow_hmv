@@ -1,0 +1,9 @@
+{
+  "id": "df76169d-3746-41d4-93c4-8fb563902eaa",
+  "name": "CPF",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

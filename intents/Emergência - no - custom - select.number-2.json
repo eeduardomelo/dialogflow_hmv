@@ -1,0 +1,70 @@
+{
+  "id": "8322e23a-76f4-453f-8f2f-d14453bb2c16",
+  "parentId": "54de933b-562b-4cf5-84f5-df50ea77fab3",
+  "rootParentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "name": "Emergência - no - custom - select.number-2",
+  "auto": true,
+  "contexts": [
+    "Emergncia-no-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emergncia.Emergncia-no.Emergncia-no-custom.Emergncia-no-custom-selectnumber-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7a25ee4b-c7c0-4167-904f-5387b30025cd",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a65a4b34-4f8b-4fa2-b20d-86c2bfcd90c3",
+          "name": "number-integer",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "value": "$number-integer",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Procure um médico imediatamente",
+            "Procure um médico o quanto antes",
+            "Procure o hospital mais próximo o quanto antes"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

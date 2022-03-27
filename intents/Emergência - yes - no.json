@@ -1,0 +1,39 @@
+{
+  "id": "89027da7-d5fe-4b13-90f5-1b2acfb2d303",
+  "parentId": "de46c09a-4ffb-4ab1-be14-a671fadf5606",
+  "rootParentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "name": "Emergência - yes - no",
+  "auto": true,
+  "contexts": [
+    "Emergncia-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emergncia.Emergncia-yes.Emergncia-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Por favor acesse a área do beneficiário para iniciar o agendamento de consultas"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

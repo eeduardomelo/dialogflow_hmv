@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c69ac838-e41b-4ca2-8a03-5d0ccbb6f395",
+    "data": [
+      {
+        "text": "marcar exame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0972e91d-30aa-4224-a7d4-00886192a5b3",
+    "data": [
+      {
+        "text": "marcar consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b03650f7-e60a-460e-881d-fa822686503a",
+    "data": [
+      {
+        "text": "exame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b72d0567-6104-44f8-bd57-dd1bddbcd2d9",
+    "data": [
+      {
+        "text": "consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "4d59caff-84d3-4388-9ebf-3f8bc3cce918",
+  "parentId": "c727985e-09eb-409b-bf91-14e6bdb9e9ac",
+  "rootParentId": "4295968a-9a00-451d-8096-39d7f551a79e",
+  "name": "Emergência - no - custom - select.number - no",
+  "auto": true,
+  "contexts": [
+    "Emergncia-no-custom-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emergncia.Emergncia-no.Emergncia-no-custom.Emergncia-no-custom-selectnumber.Emergncia-no-custom-selectnumber-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Iremos direciona-lo para área de envaminhamento médico para agendamento."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "id": "63294724-5ea1-49f4-85b0-b7ae442f9407",
+    "data": [
+      {
+        "text": "sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "054f78a7-710c-48d7-aa38-5d0d3ea32392",
+    "data": [
+      {
+        "text": "pouca vezes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7363e213-ceed-46fd-8f85-d7bce3456cb9",
+    "data": [
+      {
+        "text": "com frequencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15222495-2a89-413b-b76b-dc0f3ddf6222",
+    "data": [
+      {
+        "text": "algumas vezes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fcb12aab-477d-4dde-b819-9139df25fb94",
+    "data": [
+      {
+        "text": "abdominal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbff1d4a-4541-422e-bba1-f5b3b66cf9b3",
+    "data": [
+      {
+        "text": "dor",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "092cac13-2d9b-483f-96d9-1c66a23e7496",
+    "data": [
+      {
+        "text": "dor abdominal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "357844fe-ec31-471d-91a7-96c2e3750eef",
+    "data": [
+      {
+        "text": "indigestão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "725a451f-89bb-48cc-92e5-7807eafb2bb9",
+    "data": [
+      {
+        "text": "nausea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4b367d6-07bb-411f-8f8a-b0b7b165bbbd",
+    "data": [
+      {
+        "text": "Náusea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "16b2bef7-de9e-467a-b9b9-dceca86d29dc",
+    "data": [
+      {
+        "text": "Náusea, indigestão ou dor abdominal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7bcca1ef-49b2-4639-8cb0-855407953023",
+    "data": [
+      {
+        "text": "tosse",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f28031f-e19b-4adb-89d4-062f9c2413f2",
+    "data": [
+      {
+        "text": "Tosse seca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18cc28ee-4d34-44c7-84ef-970e7aa63b2a",
+    "data": [
+      {
+        "text": "visão ",
+        "userDefined": false
+      },
+      {
+        "text": "preta",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7e6194c-8a14-4025-8e78-5b3723457692",
+    "data": [
+      {
+        "text": "desamaio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d3a0e208-9d7d-4014-9837-a4a80c4d6f0a",
+    "data": [
+      {
+        "text": "sensação de desmaio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bebaa5f3-5317-41b6-b8c5-37866cadf871",
+    "data": [
+      {
+        "text": "pouco de ar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "adfecd7f-ffe2-40bd-b373-b085149748d0",
+    "data": [
+      {
+        "text": "sem ar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d2c63d3-11b7-44a4-a340-a0fd87a11ac2",
+    "data": [
+      {
+        "text": "ar",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "10ba96c4-739f-4088-a3d1-110c6cc2b522",
+    "data": [
+      {
+        "text": "falta de ar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cbb22bc5-ac58-4e10-b457-5e59f8c2a103",
+    "data": [
+      {
+        "text": "pálidez",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a92880f8-51aa-4f04-8bb2-a73977fc9f6f",
+    "data": [
+      {
+        "text": "pálido",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46f7488e-54ba-4e52-a29b-f40af3786547",
+    "data": [
+      {
+        "text": "Palidez",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d110b929-771f-4872-a1c3-dea6daee917f",
+    "data": [
+      {
+        "text": "calafrios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b696761-7916-4e11-b8f8-23f6e8176ab4",
+    "data": [
+      {
+        "text": "frio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a03eeae-3a7b-4968-8185-7df1f9b2a7cf",
+    "data": [
+      {
+        "text": "suar",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12d3a413-f2b2-46fb-8c8d-e14757420c2d",
+    "data": [
+      {
+        "text": "Suor frio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

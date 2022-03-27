@@ -1,0 +1,114 @@
+[
+  {
+    "id": "6702f7e9-52dd-45d5-a4e9-3d4b639f9c0b",
+    "data": [
+      {
+        "text": "gostaria de ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6f93704-46dd-4095-9ae6-582a37c6ebec",
+    "data": [
+      {
+        "text": "estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "38e2e9c3-eeb4-4f0e-b9fa-1abae6c242d1",
+    "data": [
+      {
+        "text": "tenho algumas dúvidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e1f4361-dfd8-4de6-a87d-ff1a64e60cf6",
+    "data": [
+      {
+        "text": "preciso de ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f3251d9-6be7-40ca-ac15-57ef6587d139",
+    "data": [
+      {
+        "text": "problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "57f6c099-f88a-408b-81e8-b9d24770b67f",
+    "data": [
+      {
+        "text": "ajuda",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "947ff552-fc12-4db1-8a87-c8869d1ad724",
+    "data": [
+      {
+        "text": "dúvida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f50a669b-ee6a-4667-93d3-f7200e618509",
+    "data": [
+      {
+        "text": "dúvidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
